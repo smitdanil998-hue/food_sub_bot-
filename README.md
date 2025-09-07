@@ -1,0 +1,3 @@
+BOT_TOKEN = твой_токен_от_BotFather
+ADMIN_ID = твой_telegram_id
+PAYMENT_DETAILS = твои реквизиты
